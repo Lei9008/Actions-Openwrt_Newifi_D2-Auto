@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt
+name: NeWiFi D2 Build OpenWrt
 
 on:
   repository_dispatch:
